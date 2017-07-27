@@ -1,0 +1,6 @@
+name="July Top 10 Addons"
+section="no"
+url="https://www.youtube.com/watch?v=9rzki6pXfYo"
+icon="https://i.ytimg.com/vi/9rzki6pXfYo/hqdefault.jpg"
+fanart="http://4.bp.blogspot.com/-Zuovx5W6xbg/UOWkGThEbdI/AAAAAAAAAE0/Qh4r_qbL2I8/s1600/youtube-wallpaper-dark.jpg"
+description="     "
