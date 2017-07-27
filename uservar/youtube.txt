@@ -29,7 +29,7 @@ description="     "
 name="Mini M8S II Review"
 section="no"
 url="https://www.youtube.com/watch?v=olq3_We5tqQ"
-icon="http://hometheatrelife.com/wp-content/uploads/2016/06/Mini-M8S-II-Android-Box-N01.jpg"
+icon="https://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/06/30/1467265657509169.jpg"
 fanart="http://4.bp.blogspot.com/-Zuovx5W6xbg/UOWkGThEbdI/AAAAAAAAAE0/Qh4r_qbL2I8/s1600/youtube-wallpaper-dark.jpg"
 description="     "
 
