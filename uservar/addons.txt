@@ -1,9 +1,4 @@
 
-
-
-
-
-
 name="AJs Wizard"
 plugin="AJs.Wizard"
 url="http://ajbuilds.uk/data/repo/files/AJs.Wizard/"
@@ -135,6 +130,17 @@ icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.k
 fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.kiddiecartoons/fanart.jpg"
 adult="no"
 description="Kids Cartoons Addon"
+
+name="Kong Kidz"
+plugin="plugin.video.KongKidz"
+url="http://devraiden.com/junk/plugin.video.KongKidz/"
+repository="repository.kingKong"
+repositoryxml="http://devraiden.com/junk/addons.xml"
+repositoryurl="http://devraiden.com/repo/"
+icon="http://devraiden.com/junk/plugin.video.KongKidz/icon.png"
+fanart="http://devraiden.com/junk/plugin.video.KongKidz/fanart.jpg"
+adult="no"
+description="Kids Cartoon Addon"
 
 name="Learning Zone"
 plugin="plugin.video.learningzone"
@@ -296,6 +302,17 @@ fanart="https://github.com/Vashiel/repository.adulthideout/raw/master/zips/plugi
 adult="yes"
 description="XXX Adult Shit"
 
+name="Ultimate Whitecream"
+plugin="plugin.video.uwc"
+url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/"
+repository="repository.colossus"
+repositoryxml="https://github.com/Colossal1/repository.colossus/raw/master/addons.xml"
+repositoryurl="https://github.com/Colossal1/repository.colossus/raw/master/repository.colossus/"
+icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/icon.png"
+fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/fanart.jpg"
+adult="yes"
+description="XXX Adult Shit"
+
 name="XxTRUCOxX"
 plugin="plugin.video.xxtrucoxx"
 url="https://github.com/AiWABR/xxtrucoxx-repo/raw/master/plugin.video.xxtrucoxx/"
@@ -307,16 +324,7 @@ fanart="https://github.com/AiWABR/xxtrucoxx-repo/raw/master/plugin.video.xxtruco
 adult="yes"
 description="XXX Adult Shit"
 
-name="Ultimate Whitecream"
-plugin="plugin.video.uwc"
-url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/"
-repository="repository.colossus"
-repositoryxml="https://github.com/Colossal1/repository.colossus/raw/master/addons.xml"
-repositoryurl="https://github.com/Colossal1/repository.colossus/raw/master/repository.colossus/"
-icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/icon.png"
-fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/fanart.jpg"
-adult="yes"
-description="XXX Adult Shit"
+
 
 
 
