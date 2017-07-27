@@ -10,6 +10,29 @@ fanart="http://ajbuilds.uk/data/repo/files/AJs.Wizard/fanart.jpg"
 adult="no"
 description="AJs Build Wizard"
 
+
+name="Ares Wizard"
+plugin="script.areswizard"
+url="https://github.com/ares-fortress/repo/raw/master/script.areswizard/"
+repository="repository.colossus"
+repositoryxml="https://github.com/ares-fortress/repo/raw/master/addons.xml"
+repositoryurl="http://aw.ares-project.com/"
+icon="https://github.com/ares-fortress/repo/raw/master/script.areswizard/icon.png"
+fanart="https://github.com/ares-fortress/repo/raw/master/script.areswizard/fanart.jpg"
+adult="no"
+description="Ares Wizard"
+
+name="Merlin Wizard"
+plugin="Merlin.Wizard"
+url="http://mrepo.uk/merlinrepo/addons/Merlin.Wizard/"
+repository="repository.merlin"
+repositoryxml="http://mrepo.uk/merlinrepo/addons.xml"
+repositoryurl="http://mrepo.uk/merlinrepo/addons/repository.merlin/"
+icon="http://mrepo.uk/merlinrepo/addons/Merlin.Wizard/icon.png"
+fanart="http://mrepo.uk/merlinrepo/addons/Merlin.Wizard/fanart.jpg"
+adult="no"
+description="Build And Tool Wizard With GUI"
+
 name="Bob"
 plugin="plugin.video.bob"
 url="https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/plugin.video.bob/"
@@ -197,17 +220,6 @@ fanart="http://mrepo.uk/merlinrepo/addons/plugin.audio.merlinradio/fanart.jpg"
 adult="no"
 description="Merlin Project Radio Stations"
 
-name="Merlin Wizard"
-plugin="Merlin.Wizard"
-url="http://mrepo.uk/merlinrepo/addons/Merlin.Wizard/"
-repository="repository.merlin"
-repositoryxml="http://mrepo.uk/merlinrepo/addons.xml"
-repositoryurl="http://mrepo.uk/merlinrepo/addons/repository.merlin/"
-icon="http://mrepo.uk/merlinrepo/addons/Merlin.Wizard/icon.png"
-fanart="http://mrepo.uk/merlinrepo/addons/Merlin.Wizard/fanart.jpg"
-adult="no"
-description="Build And Tool Wizard With GUI"
-
 name="Now Music UK"
 plugin="plugin.video.now_music"
 url="http://mrepo.uk/merlinrepo/addons/plugin.video.now_music/"
@@ -356,5 +368,9 @@ icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.x
 fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.xxx-o-dus/fanart.jpg"
 adult="yes"
 description="XXX Adult Shit"
+
+
+
+
 
 
