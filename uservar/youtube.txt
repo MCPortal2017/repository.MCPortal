@@ -1,4 +1,4 @@
-name="July Top 10 Addons"
+name="Top 10 Addons For July"
 section="no"
 url="https://www.youtube.com/watch?v=9rzki6pXfYo"
 icon="https://i.ytimg.com/vi/9rzki6pXfYo/hqdefault.jpg"
