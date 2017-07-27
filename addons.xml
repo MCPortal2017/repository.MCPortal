@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="Merlin.Portal" name="Merlin Portal" version="1.0.0" provider-name="Some Guy">
+<addon id="MC.Portal" name="[COLOR khaki]MCPortal[/COLOR]" version="1.0.1" provider-name="MCPortal">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,8 +9,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en"></summary>
-    <description lang="en"></description>
+    <summary lang="en">Installer And Maintenance Addon.</summary>
+    <description lang="en">If you do not like this addon then may I suggest that you kindly move along!</description>
     <platform>all</platform>
   </extension>
 </addon>
