@@ -43,6 +43,17 @@ fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video
 adult="no"
 description="Covenant Movie And TV Show Scraper Addon"
 
+name="Decado Docs"
+plugin="plugin.video.DecadoDocs"
+url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.DecadoDocs/"
+repository="repository.colossus"
+repositoryxml="https://github.com/Colossal1/repository.colossus/raw/master/addons.xml"
+repositoryurl="https://github.com/Colossal1/repository.colossus/raw/master/repository.colossus/"
+icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.DecadoDocs/icon.png"
+fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.DecadoDocs/fanart.jpg"
+adult="no"
+description="Documentaries Addon"
+
 name="Documented HD"
 plugin="plugin.video.documented.hd"
 url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.documented.hd/"
@@ -108,6 +119,17 @@ icon="http://ajbuilds.uk/data/repo/files/plugin.video.falconultratv/icon.png"
 fanart="http://ajbuilds.uk/data/repo/files/plugin.video.falconultratv/fanart.jpg"
 adult="no"
 description="AJs Awesome IPTV Addon"
+
+name="Fear Of The Dark"
+plugin="plugin.video.fod"
+url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.fod/"
+repository="repository.colossus"
+repositoryxml="https://github.com/Colossal1/repository.colossus/raw/master/addons.xml"
+repositoryurl="https://github.com/Colossal1/repository.colossus/raw/master/repository.colossus/"
+icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.fod/icon.png"
+fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.fod/fanart.jpg"
+adult="no"
+description="Horror Movies Addon"
 
 name="Fishermans Cove"
 plugin="plugin.video.fishermanscove"
@@ -324,9 +346,15 @@ fanart="https://github.com/AiWABR/xxtrucoxx-repo/raw/master/plugin.video.xxtruco
 adult="yes"
 description="XXX Adult Shit"
 
-
-
-
-
+name="XXX-O-Dus"
+plugin="plugin.video.xxx-o-dus"
+url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.xxx-o-dus/"
+repository="repository.colossus"
+repositoryxml="https://github.com/Colossal1/repository.colossus/raw/master/addons.xml"
+repositoryurl="https://github.com/Colossal1/repository.colossus/raw/master/repository.colossus/"
+icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.xxx-o-dus/icon.png"
+fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.xxx-o-dus/fanart.jpg"
+adult="yes"
+description="XXX Adult Shit"
 
 
