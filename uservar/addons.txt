@@ -1,4 +1,3 @@
-
 name="AJs Wizard"
 plugin="AJs.Wizard"
 url="http://ajbuilds.uk/data/repo/files/AJs.Wizard/"
@@ -165,6 +164,17 @@ fanart="http://twizbuild.xyz/repo/addons/plugin.video.fishermanscove/fanart.jpg"
 adult="no"
 description="Fishermans Cove"
 
+name="Indie Mix"
+plugin="plugin.video.indiemix"
+url="http://mrepo.uk/merlinrepo/addons/plugin.video.indiemix/"
+repository="repository.merlin"
+repositoryxml="http://mrepo.uk/merlinrepo/addons.xml"
+repositoryurl="http://mrepo.uk/merlinrepo/addons/repository.merlin/"
+icon="http://mrepo.uk/merlinrepo/addons/plugin.video.indiemix/icon.png"
+fanart="http://mrepo.uk/merlinrepo/addons/plugin.video.indiemix/fanart.jpg"
+adult="no"
+description="Indie Mix Youtube Addon"
+
 name="Kiddie Cartoons"
 plugin="plugin.video.kiddiecartoons"
 url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.kiddiecartoons/"
@@ -230,6 +240,17 @@ icon="http://mrepo.uk/merlinrepo/addons/plugin.audio.merlinradio/icon.png"
 fanart="http://mrepo.uk/merlinrepo/addons/plugin.audio.merlinradio/fanart.jpg"
 adult="no"
 description="Merlin Project Radio Stations"
+
+name="Minecraft"
+plugin="plugin.video.minecraft"
+url="http://mrepo.uk/merlinrepo/addons/plugin.video.minecraft/"
+repository="repository.merlin"
+repositoryxml="http://mrepo.uk/merlinrepo/addons.xml"
+repositoryurl="http://mrepo.uk/merlinrepo/addons/repository.merlin/"
+icon="http://mrepo.uk/merlinrepo/addons/plugin.video.minecraft/icon.png"
+fanart="http://mrepo.uk/merlinrepo/addons/plugin.video.minecraft/fanart.jpg"
+adult="no"
+description="Minecraft Youtube Addon"
 
 name="Now Music UK"
 plugin="plugin.video.now_music"
@@ -330,10 +351,28 @@ fanart="https://raw.githubusercontent.com/restbite/UKT/master/repository.ukturk/
 adult="no"
 description="Uk Turks Playlist Addon"
 
+name="Urban Mix"
+plugin="plugin.video.urbanmix"
+url="http://mrepo.uk/merlinrepo/addons/plugin.video.urbanmix/"
+repository="repository.merlin"
+repositoryxml="http://mrepo.uk/merlinrepo/addons.xml"
+repositoryurl="http://mrepo.uk/merlinrepo/addons/repository.merlin/"
+icon="http://mrepo.uk/merlinrepo/addons/plugin.video.urbanmix/icon.png"
+fanart="http://mrepo.uk/merlinrepo/addons/plugin.video.urbanmix/fanart.jpg"
+adult="no"
+description="Urban Mix Youtube Addon"
 
 
-
-
+name="URL Resolver v4"
+plugin="script.module.urlresolver"
+url="http://mrepo.uk/merlinrepo/addons/script.module.urlresolver/"
+repository="repository.merlin"
+repositoryxml="http://mrepo.uk/merlinrepo/addons.xml"
+repositoryurl="http://mrepo.uk/merlinrepo/addons/repository.merlin/"
+icon="http://mrepo.uk/merlinrepo/addons/script.module.urlresolver/icon.png"
+fanart="http://mrepo.uk/merlinrepo/addons/script.module.urlresolver/fanart.jpg"
+adult="no"
+description="Minecraft Youtube Addon"
 
 
 name="Adult Hideout"
