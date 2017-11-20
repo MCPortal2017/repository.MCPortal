@@ -108,18 +108,6 @@ fanart="http://mrepo.uk/merlinrepo/addons/plugin.video.projectm/fanart.jpg"
 adult="no"
 description="Merlin Project All In One Addon"
 
-name="SALTS"
-plugin="plugin.video.salts"
-url="https://github.com/k3l3vra1/k3l3vra.repo/tree/master/zips/plugin.video.salts/"
-repository="repository.k3l3vra"
-repositoryxml="http://github.com/k3l3vra1/k3l3vra.repo/raw/master/addons.xml"
-repositoryurl="http://mrepo.uk/merlinrepo/addons/repository.k3l3vra/"
-icon="http://github.com/k3l3vra1/k3l3vra.repo/raw/master/zips/plugin.video.salts/icon.png"
-fanart="http://github.com/k3l3vra1/k3l3vra.repo/raw/master/zips/plugin.video.salts/fanart.jpg"
-adult="no"
-description="SALTS Movies And TV Scraper Addon"
-
-
 name="Urban Mix"
 plugin="plugin.video.urbanmix"
 url="http://mrepo.uk/merlinrepo/addons/plugin.video.urbanmix/"
@@ -155,17 +143,6 @@ fanart="https://github.com/Vashiel/repository.adulthideout/raw/master/zips/plugi
 adult="yes"
 description="XXX Adult Shit"
 
-name="Ultimate Whitecream"
-plugin="plugin.video.uwc"
-url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/"
-repository="repository.colossus"
-repositoryxml="https://github.com/Colossal1/repository.colossus/raw/master/addons.xml"
-repositoryurl="https://github.com/Colossal1/repository.colossus/raw/master/repository.colossus/"
-icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/icon.png"
-fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.uwc/fanart.jpg"
-adult="yes"
-description="XXX Adult Shit"
-
 name="XxTRUCOxX"
 plugin="plugin.video.xxtrucoxx"
 url="https://github.com/AiWABR/xxtrucoxx-repo/raw/master/plugin.video.xxtrucoxx/"
@@ -176,18 +153,6 @@ icon="https://github.com/AiWABR/xxtrucoxx-repo/raw/master/plugin.video.xxtrucoxx
 fanart="https://github.com/AiWABR/xxtrucoxx-repo/raw/master/plugin.video.xxtrucoxx/fanart.jpg"
 adult="yes"
 description="XXX Adult Shit"
-
-name="XXX-O-Dus"
-plugin="plugin.video.xxx-o-dus"
-url="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.xxx-o-dus/"
-repository="repository.colossus"
-repositoryxml="https://github.com/Colossal1/repository.colossus/raw/master/addons.xml"
-repositoryurl="https://github.com/Colossal1/repository.colossus/raw/master/repository.colossus/"
-icon="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.xxx-o-dus/icon.png"
-fanart="https://github.com/Colossal1/repository.colossus/raw/master/plugin.video.xxx-o-dus/fanart.jpg"
-adult="yes"
-description="XXX Adult Shit"
-
 
 
 
